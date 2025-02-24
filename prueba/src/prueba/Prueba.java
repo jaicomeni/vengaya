@@ -30,7 +30,7 @@ public class Prueba {
 	 }
 	 
 	 else {
-		 System.out.println("esto es una prueba otra vez");
+		 System.out.println("esto es una prueba otra vez si señor");
 	 }
 }
 }
