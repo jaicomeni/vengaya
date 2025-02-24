@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Prueba {
 	
 	public static void main(String[] args) throws IOException {
-		Scanner teclado = new Scanner(System.in);
+		Scanner hola = new Scanner(System.in);
 	 System.out.println("introduce la nota: ");
-	 String num = teclado.nextLine();
+	 String num = hola.nextLine();
 	 int nota = Integer.parseInt(num);
 	 
 	 /**
@@ -30,7 +30,7 @@ public class Prueba {
 	 }
 	 
 	 else {
-		 System.out.println("Ha suspendido");
+		 System.out.println("esto es una prueba");
 	 }
 }
 }
